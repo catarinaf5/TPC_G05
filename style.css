@@ -3,11 +3,13 @@ div {
   height: 100px;
   background: orange;
   transition: width 3s, height 5s, transform 2s;
+  margin-top:100px;
+  margin-left:10px;
 }
 
  h2{
  	text-align: center;
-  font-family: helvetica;
+ 	font-family: helvetica;
  }
 
 div:hover {
