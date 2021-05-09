@@ -1,0 +1,16 @@
+div {
+  width: 100px;
+  height: 100px;
+  background: orange;
+  transition: width 3s, height 5s, transform 2s;
+}
+
+ h2{
+ 	text-align: center;
+ }
+
+div:hover {
+  width: 400px;
+  height: 400px;
+  transform: rotate(360deg);
+}
